@@ -99,7 +99,7 @@ example
         var switcher = new ANestSwitch()
 
 
-![repr](https://nudi.xyz/README/PROJ/nv-facutil-switch/str.png);     
+![repr](RESOURCES/str.png);     
 
 
         await switcher.handle(6)
