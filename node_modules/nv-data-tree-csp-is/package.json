@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "nv-data-tree-csp-l0": "^1.0.13"
+  },
+  "name": "nv-data-tree-csp-is",
+  "version": "1.0.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

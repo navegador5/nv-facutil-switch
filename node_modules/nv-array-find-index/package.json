@@ -1,0 +1,12 @@
+{
+  "name": "nv-array-find-index",
+  "version": "1.0.3",
+  "description": "nv-array-find-index =============== - nv-array-find-index",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}

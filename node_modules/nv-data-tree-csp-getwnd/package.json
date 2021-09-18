@@ -1,0 +1,16 @@
+{
+  "name": "nv-data-tree-csp-getwnd",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nv-data-tree-csp-gen": "^1.0.7",
+    "nv-data-tree-csp-l0": "^1.0.15",
+    "nv-data-tree-csp-ndgen": "^1.0.1"
+  }
+}

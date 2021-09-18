@@ -1,0 +1,1 @@
+const gn=require("nv-data-tree-csp-gen"),__ME={$get_with_spl:(e,r,t,n,_,g,o,a,c)=>{let f=o[0];var h;for(h of c[0])if(f=gn.which(gn.$fch(r,t,f),h),0===f)break;return f}};module.exports=__ME;

@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "nv-data-tree-csp-act": "^1.0.14",
+    "nv-data-tree-csp-apidef": "^1.0.30",
+    "nv-data-tree-csp-bfs": "^1.0.4",
+    "nv-data-tree-csp-forest": "^1.0.10",
+    "nv-data-tree-csp-get": "^1.0.11",
+    "nv-data-tree-csp-getwnd": "^1.0.4",
+    "nv-data-tree-csp-is": "^1.0.3",
+    "nv-data-tree-csp-l0": "^1.0.15",
+    "nv-data-tree-csp-ndgetwi": "^1.0.1",
+    "nv-data-tree-csp-ndgetwo": "^1.0.1",
+    "nv-data-tree-csp-ndsget": "^1.0.1",
+    "nv-data-tree-csp-ndsgetwis": "^1.0.1",
+    "nv-data-tree-csp-of": "^1.0.2",
+    "nv-data-tree-csp-op": "^1.0.21",
+    "nv-data-tree-csp-sedfs": "^1.0.2"
+  },
+  "name": "nv-data-tree-csp-method",
+  "version": "1.0.88",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

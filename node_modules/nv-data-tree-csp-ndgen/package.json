@@ -1,0 +1,15 @@
+{
+  "name": "nv-data-tree-csp-ndgen",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nv-data-tree-csp-gen": "^1.0.7",
+    "nv-data-tree-csp-ndget": "^1.0.2"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "nv-data-tree-csp-act": "^1.0.11",
+    "nv-data-tree-csp-gen": "^1.0.8",
+    "nv-data-tree-csp-getwnd": "^1.0.4",
+    "nv-data-tree-csp-ndgen": "^1.0.1",
+    "nv-data-tree-csp-ndget": "^1.0.2",
+    "nv-data-tree-csp-sedfs": "^1.0.2"
+  },
+  "name": "nv-data-tree-csp-get",
+  "version": "1.0.11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "nv-data-tree-actdef": "^1.0.16",
+    "nv-data-tree-csp-gen": "^1.0.7",
+    "nv-data-tree-csp-l0": "^1.0.15",
+    "nv-facutil-basic": "^1.0.45"
+  },
+  "name": "nv-data-tree-csp-bfs",
+  "version": "1.0.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

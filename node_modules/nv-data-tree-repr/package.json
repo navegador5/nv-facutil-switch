@@ -1,0 +1,16 @@
+{
+  "name": "nv-data-tree-repr",
+  "version": "1.0.37",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nv-data-tree-actdef": "^1.0.17",
+    "nv-data-tree-cond-leaf": "^1.0.18",
+    "nv-facutil-basic": "^1.0.54"
+  }
+}

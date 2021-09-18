@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "nv-array-find-index": "^1.0.3",
+    "nv-data-tree-csp-json": "^1.0.7",
+    "nv-dict-basic": "^1.0.11",
+    "nv-facutil-basic": "^1.0.69"
+  },
+  "version": "0.0.2",
+  "name": "nv-facutil-switch",
+  "description": "nv-facutil-switch ================== - nv-facutil-switch  is a simple-util to avoid using-of-switch-case - support async matcher AND async handler - if match, the default-action-after-handle is break, NOT continue",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "switch.async"
+  ],
+  "author": "",
+  "license": "ISC"
+}

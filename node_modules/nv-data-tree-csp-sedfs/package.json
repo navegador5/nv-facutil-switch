@@ -1,0 +1,16 @@
+{
+  "name": "nv-data-tree-csp-sedfs",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nv-data-tree-actdef": "^1.0.16",
+    "nv-data-tree-csp-gen": "^1.0.8",
+    "nv-data-tree-csp-l0": "^1.0.15"
+  }
+}

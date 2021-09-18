@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nv-data-tree-csp-apidef": "^1.0.30"
+  },
+  "name": "nv-data-tree-csp-relation",
+  "version": "1.0.4",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
